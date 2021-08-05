@@ -2,7 +2,7 @@
 
 I'm Sahbi Bannour,  I'm a Software Engineer Student at ISSATSO, and I've been working in tech since 2017. I'm from Tunisia, and I'm currently living in Monastir.
 
-[![Facebook : sahbi bannour](https://img.shields.io/twitter/follow/loiane?style=social)](https://www.facebook.com/sahbi.banr/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/sahbi_bannour?style=social)](https://twitter.com/sahbi_bannour)
 [![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahbi-bannour/)](https://www.linkedin.com/in/sahbi-bannour/)
 
 
