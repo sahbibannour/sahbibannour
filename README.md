@@ -6,6 +6,13 @@ I'm Sahbi Bannour,  I'm a Software Engineer Student at ISSATSO, and I've been wo
 [![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahbi-bannour/)](https://www.linkedin.com/in/sahbi-bannour/)
 
 
+## Skillset
+
+| ✨Guru   | 🔥 Things I master | 📚 Things my hands are dirty with            | 🎮Things I do for fun              |
+|--------|-----------------|-------------------------------------------|----------------------------------|
+| Python | Node.js        | SSIS \| .NET | Machine Learning \| Deep Learning |
+
+
 ## ⚡ Technologies
 
 These are some of the technologies and tools that I work with:
